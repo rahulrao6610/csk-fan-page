@@ -6,6 +6,7 @@ A fully responsive, interactive fan page dedicated to Chennai Super Kings (CSK),
 🎨 Tailwind CSS for responsive, modern UI
 🧑‍💻 Multiple Pages with React Router:
 
+
 Home Page
 Players Page (with images)
 Match Schedule Page
